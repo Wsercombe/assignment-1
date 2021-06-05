@@ -1,0 +1,26 @@
+h1 {
+  color: darkslategray;
+  text-align: center;
+  font-weight: bold;
+  font-size 40px;
+}
+h2 {
+  color: slategray;
+  text-align: center;
+  font-weight: bold;
+  font-size 30px;
+}
+
+p {
+  font-family:Georgia;
+  color: gray;
+}
+img
+{
+  width: 50%;
+}
+body
+{
+  color: gray;
+  font-family: Georgia;
+}
