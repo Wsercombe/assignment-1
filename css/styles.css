@@ -15,13 +15,34 @@ p {
   font-family:Georgia;
   color: gray;
 }
-img
+.center-image
 {
-  width: 50%;
+  /*
+  can't seem to center the dang thing
+  */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 20px black;
+  padding: 20px;
+  margin: 20px;
+  width: 250px;
   align-self: center;
 }
 body
 {
   color: gray;
   font-family: Georgia;
+}
+
+.numbered-list
+{
+  color: blue;
+}
+
+.link-explanation
+{
+  line-height: 1.5;
+  color: darkblue;
+
 }
