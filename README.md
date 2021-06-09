@@ -19,6 +19,7 @@ _This application includes a picture important to me, a list of some of the prog
 
 * _The user should have access to the Github repository_
 * _The user should be able to clone the repository and view the application on a web browser_
+* _Find the page here: https://wsercombe.github.io/assignment-1/_
 
 ## Known Bugs
 
