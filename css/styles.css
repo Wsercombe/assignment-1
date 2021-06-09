@@ -2,13 +2,13 @@ h1 {
   color: darkslategray;
   text-align: center;
   font-weight: bold;
-  font-size 40px;
+  font-size: 40px;
 }
 h2 {
   color: slategray;
   text-align: center;
   font-weight: bold;
-  font-size 30px;
+  font-size: 30px;
 }
 
 p {
@@ -45,4 +45,14 @@ body
   line-height: 1.5;
   color: darkblue;
 
+}
+.contact-info{
+  margin:auto;
+  width:20%;
+}
+.align-left {
+	float: left;
+}
+.align-right {
+	float: right;
 }
